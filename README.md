@@ -7,8 +7,10 @@ This project is for Cs201 mid term which uses JavaFx and java as the main coding
 The project uses 2 types of library a javafx library file and a .jar file which is below:
 ![jar](https://user-images.githubusercontent.com/65071516/98459448-0a4ca080-21c5-11eb-99cc-8a14516538b8.PNG)
 
+
 The button SignUp saves the information provided from the user as shown below:
 ![signup seysi](https://user-images.githubusercontent.com/65071516/98459538-f5bcd800-21c5-11eb-95f7-6ea3cc0a4365.PNG)
+
 The inforamtion is saved as a .txt form whicj is like below:
 ![save](https://user-images.githubusercontent.com/65071516/98459551-20a72c00-21c6-11eb-93d0-4a36739391d0.PNG)
 
